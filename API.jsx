@@ -1,4 +1,4 @@
-[
+const API = [
     {
         "id": 1,
         "title": "iPhone 15 Apple",
@@ -17,4 +17,6 @@
         "image": "https://m.media-amazon.com/images/I/61s+CdLjssL._SX679_.jpg",
         "description": "This combo contains Echo Dot (5th Gen) and Wipro 9W smart color bulb. Use this combo to experience the magic of controlling your lights using just your voice (with Alexa) or remotely (through an App). You can also set smart routines: dim it automatically at 10pm or turn it on at 7pm."
     }
-]
+];
+
+export default API;
